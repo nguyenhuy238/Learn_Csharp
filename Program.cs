@@ -1,5 +1,6 @@
 ﻿
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.OpenApi.Models;
 using RequestLifecycleDemo.Filters;
 using RequestLifecycleDemo.Middlewares;
 using RequestLifecycleDemo.Repos;
@@ -12,6 +13,7 @@ builder.Services.AddControllers(options =>
 {
     options.Filters.Add<ApiExceptionFilter>(); // map exception -> ProblemDetails/status code
     options.Filters.Add<LogActionFilter>();    // log thời gian chạy action
+    options.Filters.Add<MyAuthorizationFilter>();
 })
 .ConfigureApiBehaviorOptions(o =>
 {
@@ -19,9 +21,36 @@ builder.Services.AddControllers(options =>
 });
 
 // Swagger
+//builder.Services.AddEndpointsApiExplorer();
+//builder.Services.AddSwaggerGen();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "RequestLifecycleDemo", Version = "v1" });
 
+    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        In = ParameterLocation.Header,
+        Name = "Authorization",
+        Type = SecuritySchemeType.ApiKey,
+        Description = "Nhập token dạng: Bearer {token} (VD: Bearer 123)"
+    });
+
+    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Id = "Bearer",
+                    Type = ReferenceType.SecurityScheme
+                }
+            },
+            Array.Empty<string>()
+        }
+    });
+});
 // Business & Repos (DI)
 builder.Services.AddScoped<IProductRepository, InMemoryProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();

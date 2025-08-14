@@ -33,3 +33,4 @@ C:\Users\LEGION\source\repos\Demo_Request\Demo_Request\obj\Debug\net8.0\refint\R
 C:\Users\LEGION\source\repos\Demo_Request\Demo_Request\obj\Debug\net8.0\RequestLifecycleDemo.pdb
 C:\Users\LEGION\source\repos\Demo_Request\Demo_Request\obj\Debug\net8.0\RequestLifecycleDemo.genruntimeconfig.cache
 C:\Users\LEGION\source\repos\Demo_Request\Demo_Request\obj\Debug\net8.0\ref\RequestLifecycleDemo.dll
+C:\Users\LEGION\source\repos\Demo_Request\Demo_Request\obj\Debug\net8.0\RequestLifecycleDemo.sourcelink.json

@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "RequestLifecycleDemo",
-    "version": "1.0"
+    "version": "v1"
   },
   "paths": {
     "/api/Orders": {
@@ -318,6 +318,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "Nhập token dạng: Bearer {token} (VD: Bearer 123)",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }
