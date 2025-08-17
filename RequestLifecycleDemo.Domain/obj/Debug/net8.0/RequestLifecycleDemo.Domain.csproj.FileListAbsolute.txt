@@ -1,0 +1,11 @@
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\bin\Debug\net8.0\RequestLifecycleDemo.Domain.deps.json
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\bin\Debug\net8.0\RequestLifecycleDemo.Domain.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\bin\Debug\net8.0\RequestLifecycleDemo.Domain.pdb
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\obj\Debug\net8.0\RequestLifecycleDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\obj\Debug\net8.0\RequestLifecycleDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\obj\Debug\net8.0\RequestLifecycleDemo.Domain.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\obj\Debug\net8.0\RequestLifecycleDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\obj\Debug\net8.0\RequestLifecycleDemo.Domain.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\obj\Debug\net8.0\refint\RequestLifecycleDemo.Domain.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\obj\Debug\net8.0\RequestLifecycleDemo.Domain.pdb
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Domain\obj\Debug\net8.0\ref\RequestLifecycleDemo.Domain.dll

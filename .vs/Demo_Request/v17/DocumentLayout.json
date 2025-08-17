@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|c:\\users\\legion\\source\\repos\\demo_request\\demo_request\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|solutionrelative:demo_request\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|solutionrelative:requestlifecycledemo.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|solutionrelative:requestlifecycledemo.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|c:\\users\\legion\\source\\repos\\demo_request\\demo_request\\migrations\\20250815095547_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|solutionrelative:demo_request\\migrations\\20250815095547_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|solutionrelative:requestlifecycledemo.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|solutionrelative:requestlifecycledemo.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.infrastructure\\persistence\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|solutionrelative:requestlifecycledemo.infrastructure\\persistence\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|solutionrelative:requestlifecycledemo.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.infrastructure\\migrations\\20250815095547_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|solutionrelative:requestlifecycledemo.infrastructure\\migrations\\20250815095547_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|c:\\users\\legion\\source\\repos\\demo_request\\demo_request\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|solutionrelative:demo_request\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|c:\\users\\legion\\source\\repos\\demo_request\\demo_request\\migrations\\20250815095547_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|solutionrelative:demo_request\\migrations\\20250815095547_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.infrastructure\\requestlifecycledemo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|solutionrelative:requestlifecycledemo.infrastructure\\requestlifecycledemo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.infrastructure\\migrations\\20250815095547_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA64D9A0-8A79-47D8-9043-47F972563B61}|RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj|solutionrelative:requestlifecycledemo.infrastructure\\migrations\\20250815095547_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|solutionrelative:requestlifecycledemo.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D388CA-F136-4559-A5F7-B77536B46586}|RequestLifecycleDemo.Domain\\RequestLifecycleDemo.Domain.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.domain\\requestlifecycledemo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69D388CA-F136-4559-A5F7-B77536B46586}|RequestLifecycleDemo.Domain\\RequestLifecycleDemo.Domain.csproj|solutionrelative:requestlifecycledemo.domain\\requestlifecycledemo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D388CA-F136-4559-A5F7-B77536B46586}|RequestLifecycleDemo.Domain\\RequestLifecycleDemo.Domain.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D388CA-F136-4559-A5F7-B77536B46586}|RequestLifecycleDemo.Domain\\RequestLifecycleDemo.Domain.csproj|solutionrelative:requestlifecycledemo.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|solutionrelative:requestlifecycledemo.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|solutionrelative:requestlifecycledemo.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|solutionrelative:requestlifecycledemo.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.application\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|solutionrelative:requestlifecycledemo.application\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|c:\\users\\legion\\source\\repos\\demo_request\\requestlifecycledemo.application\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D46E8D-9CF1-40CD-84C4-ED97D1B3F834}|RequestLifecycleDemo.Application\\RequestLifecycleDemo.Application.csproj|solutionrelative:requestlifecycledemo.application\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|c:\\users\\legion\\source\\repos\\demo_request\\demo_request\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16E48E13-EF14-4633-91D3-EBA0B2DAAC85}|Demo_Request\\RequestLifecycleDemo.csproj|solutionrelative:demo_request\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250815095547_Init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\Migrations\\20250815095547_Init.Designer.cs",
+              "RelativeDocumentMoniker": "Demo_Request\\Migrations\\20250815095547_Init.Designer.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\Migrations\\20250815095547_Init.Designer.cs",
+              "RelativeToolTip": "Demo_Request\\Migrations\\20250815095547_Init.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T01:04:34.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Demo_Request\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Demo_Request\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T01:03:36.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250815095547_Init.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\Migrations\\20250815095547_Init.cs",
+              "RelativeDocumentMoniker": "Demo_Request\\Migrations\\20250815095547_Init.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\Migrations\\20250815095547_Init.cs",
+              "RelativeToolTip": "Demo_Request\\Migrations\\20250815095547_Init.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T01:03:33.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250815095547_Init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Migrations\\20250815095547_Init.Designer.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Infrastructure\\Migrations\\20250815095547_Init.Designer.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Migrations\\20250815095547_Init.Designer.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Infrastructure\\Migrations\\20250815095547_Init.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:53:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RequestLifecycleDemo.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj",
+              "RelativeToolTip": "RequestLifecycleDemo.Infrastructure\\RequestLifecycleDemo.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-17T00:41:34.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestLifecycleDemo.Domain",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Domain\\RequestLifecycleDemo.Domain.csproj",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Domain\\RequestLifecycleDemo.Domain.csproj",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Domain\\RequestLifecycleDemo.Domain.csproj",
+              "RelativeToolTip": "RequestLifecycleDemo.Domain\\RequestLifecycleDemo.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-17T00:39:51.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:39:47.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:39:21.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Persistence\\EfProductRepository.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Infrastructure\\Persistence\\EfProductRepository.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Persistence\\EfProductRepository.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Infrastructure\\Persistence\\EfProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:35:11.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:35:09.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:35:06.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:34:54.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:34:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Application\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Services\\IProductService.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Application\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:34:52.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Application\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Services\\IOrderService.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Application\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:34:51.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:34:46.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Application\\DTOs\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Application\\DTOs\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:34:45.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_Request\\Program.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\Program.cs",
+              "RelativeToolTip": "Demo_Request\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:33:45.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo_Request\\appsettings.json",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\Demo_Request\\appsettings.json",
+              "RelativeToolTip": "Demo_Request\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T00:33:42.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250815095547_Init.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Migrations\\20250815095547_Init.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Infrastructure\\Migrations\\20250815095547_Init.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Infrastructure\\Migrations\\20250815095547_Init.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Infrastructure\\Migrations\\20250815095547_Init.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:32:48.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:32:38.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Abstractions\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "RequestLifecycleDemo.Application\\Abstractions\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\LEGION\\source\\repos\\Demo_Request\\RequestLifecycleDemo.Application\\Abstractions\\IProductRepository.cs",
+              "RelativeToolTip": "RequestLifecycleDemo.Application\\Abstractions\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T00:31:38.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

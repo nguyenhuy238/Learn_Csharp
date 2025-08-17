@@ -1,0 +1,15 @@
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\bin\Debug\net8.0\RequestLifecycleDemo.Application.deps.json
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\bin\Debug\net8.0\RequestLifecycleDemo.Application.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\bin\Debug\net8.0\RequestLifecycleDemo.Application.pdb
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\bin\Debug\net8.0\RequestLifecycleDemo.Domain.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\bin\Debug\net8.0\RequestLifecycleDemo.Domain.pdb
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\RequestLifecycleDemo.Application.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\RequestLifecycleDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\RequestLifecycleDemo.Application.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\RequestLifecycleDemo.Application.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\RequestLifecycleDemo.Application.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\RequestL.DC6D9A7C.Up2Date
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\RequestLifecycleDemo.Application.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\refint\RequestLifecycleDemo.Application.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\RequestLifecycleDemo.Application.pdb
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Application\obj\Debug\net8.0\ref\RequestLifecycleDemo.Application.dll

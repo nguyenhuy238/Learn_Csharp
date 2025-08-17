@@ -1,0 +1,17 @@
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestLifecycleDemo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestLifecycleDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestLifecycleDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestLifecycleDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestLifecycleDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\bin\Debug\net8.0\RequestLifecycleDemo.Infrastructure.deps.json
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\bin\Debug\net8.0\RequestLifecycleDemo.Infrastructure.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\bin\Debug\net8.0\RequestLifecycleDemo.Infrastructure.pdb
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\bin\Debug\net8.0\RequestLifecycleDemo.Application.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\bin\Debug\net8.0\RequestLifecycleDemo.Domain.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\bin\Debug\net8.0\RequestLifecycleDemo.Application.pdb
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\bin\Debug\net8.0\RequestLifecycleDemo.Domain.pdb
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestL.54CF28F0.Up2Date
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestLifecycleDemo.Infrastructure.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\refint\RequestLifecycleDemo.Infrastructure.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestLifecycleDemo.Infrastructure.pdb
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\ref\RequestLifecycleDemo.Infrastructure.dll
