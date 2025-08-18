@@ -3,8 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using RequestLifecycleDemo.Data;
-
+using RequestLifecycleDemo.Infrastructure.Persistence;
 #nullable disable
 
 namespace RequestLifecycleDemo.Migrations

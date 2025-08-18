@@ -15,3 +15,4 @@ C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\ob
 C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\refint\RequestLifecycleDemo.Infrastructure.dll
 C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestLifecycleDemo.Infrastructure.pdb
 C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\ref\RequestLifecycleDemo.Infrastructure.dll
+C:\Users\LEGION\source\repos\Demo_Request\RequestLifecycleDemo.Infrastructure\obj\Debug\net8.0\RequestLifecycleDemo.Infrastructure.sourcelink.json

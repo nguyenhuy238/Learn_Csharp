@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using RequestLifecycleDemo.Data;
+using RequestLifecycleDemo.Infrastructure.Persistence;
 using RequestLifecycleDemo.Models;
 
 namespace RequestLifecycleDemo.Repos;

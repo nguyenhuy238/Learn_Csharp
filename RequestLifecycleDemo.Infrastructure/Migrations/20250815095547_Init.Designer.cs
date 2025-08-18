@@ -4,14 +4,14 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using RequestLifecycleDemo.Data;
+
 using RequestLifecycleDemo.Infrastructure.Persistence;
 
 #nullable disable
 
 namespace RequestLifecycleDemo.Migrations
 {
-    [DbContext(typeof(Data.AppDbContext))]
+    [DbContext(typeof(AppDbContext))]
     [Migration("20250815095547_Init")]
     partial class Init
     {
